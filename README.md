@@ -103,9 +103,9 @@ Correlation and visual patterns are descriptive. They do not establish causation
 
 The forecasting target is:
 
-\[
+$$
 \text{Reported cybercrime cases}_{s,t}
-\]
+$$
 
 where \(s\) represents a State/UT and \(t\) represents a year.
 
@@ -143,9 +143,9 @@ This simulates the real forecasting situation: the model can only learn from yea
 
 1. **Previous-year baseline**
 
-\[
+$$
 \hat{Y}_{s,t} = Y_{s,t-1}
-\]
+$$
 
 2. Ridge Regression  
 3. Poisson Regression  
@@ -153,21 +153,21 @@ This simulates the real forecasting situation: the model can only learn from yea
 
 Models are compared using:
 
-\[
+$$
 \text{MAE} =
 \frac{1}{n}
 \sum_{i=1}^{n}
 |y_i-\hat{y}_i|
-\]
+$$
 
-\[
+$$
 \text{RMSE} =
 \sqrt{
 \frac{1}{n}
 \sum_{i=1}^{n}
 (y_i-\hat{y}_i)^2
 }
-\]
+$$
 
 Lower values indicate better predictive accuracy.
 
