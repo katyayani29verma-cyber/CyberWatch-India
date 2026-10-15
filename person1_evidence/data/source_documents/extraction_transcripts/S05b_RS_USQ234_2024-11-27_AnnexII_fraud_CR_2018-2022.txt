@@ -1,0 +1,49 @@
+# source_id: S05
+# document: Rajya Sabha Unstarred Question No. 234, answered 27.11.2024, Ministry of Home Affairs
+# url: https://www.mha.gov.in/MHA1/Par2017/pdfs/par2024-pdfs/RS27112024/234.pdf
+# table: Annexure-II (2 pages), state-wise cases registered/chargesheeted/convicted and persons arrested/chargesheeted/convicted under FRAUD for cyber crimes, 2018-2022 (exact printed title not captured: tool paraphrased it)
+# columns_in_source: per year CR, CCS, CON, PAR, PCS, PCV. ONLY CR (Cases Registered) transcribed here.
+# source_line: Source: Crime in India
+# footnote_+: '+' Combined data of erstwhile D&N Haveli UT and Daman & Diu UT during 2018, 2019
+# footnote_*: '*' Data of erstwhile Jammu & Kashmir State including Ladakh during during 2018, 2019
+# extraction: text layer via Claude WebFetch, 2026-10-08. Not visually verified.
+COLUMNS: SL|State/UT|2018|2019|2020|2021|2022
+1|Andhra Pradesh|195|703|764|952|984
+2|Arunachal Pradesh|0|0|3|2|0
+3|Assam|6|83|58|82|16
+4|Bihar|357|1008|1294|1373|1441
+5|Chhattisgarh|18|35|71|67|42
+6|Goa|0|0|1|1|11
+7|Gujarat|139|107|205|208|108
+8|Haryana|0|107|36|52|44
+9|Himachal Pradesh|0|0|1|6|9
+10|Jharkhand|175|18|83|79|98
+11|Karnataka|49|7|0|6|0
+12|Kerala|14|14|6|16|26
+13|Madhya Pradesh|43|25|69|89|180
+14|Maharashtra|1036|1681|2032|1678|2202
+15|Manipur|0|0|0|0|0
+16|Meghalaya|0|0|10|0|0
+17|Mizoram|0|0|0|0|0
+18|Nagaland|0|0|0|0|0
+19|Odisha|392|956|1079|1205|957
+20|Punjab|7|35|16|29|61
+21|Rajasthan|72|324|332|371|292
+22|Sikkim|0|0|0|0|0
+23|Tamil Nadu|5|11|5|107|251
+24|Telangana|347|282|3316|7003|9581
+25|Tripura|0|0|0|0|0
+26|Uttar Pradesh|454|813|837|614|766
+27|Uttarakhand|28|3|1|0|31
+28|West Bengal|4|0|145|40|30
+|TOTAL STATE(S)|3341|6212|10364|13980|17130
+29|A&N Islands|2|0|0|0|0
+30|Chandigarh|2|0|0|0|2
+31|D&N Haveli and Daman & Diu+|0|0|0|0|0
+32|Delhi|3|11|31|19|331
+33|Jammu & Kashmir*|3|6|0|8|7
+34|Ladakh|-|-|0|0|0
+35|Lakshadweep|2|0|0|0|0
+36|Puducherry|0|0|0|0|0
+|TOTAL UT(S)|12|17|31|27|340
+|TOTAL (ALL INDIA)|3353|6229|10395|14007|17470

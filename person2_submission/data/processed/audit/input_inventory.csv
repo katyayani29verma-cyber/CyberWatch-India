@@ -1,0 +1,5 @@
+file,role,used_by,preservation
+data/source_inputs/S01_LS_USQ438_2025-12-02_AnnexII_2014-2023.csv,Required Person 1 primary input,build_person2_dataset.py,read-only; raw fields carried into outputs
+data/source_inputs/state_ut_naming_reference.csv,Required Person 1 naming map,build_person2_dataset.py,read-only
+data/external/population_source_values.csv,Person 2 extracted population input,build_person2_dataset.py,source URL/table reference carried row-wise
+data/reference/ladakh_correction_log.csv,Person 2 cited correction log,build_person2_dataset.py,only 2020–2023 documented corrections applied

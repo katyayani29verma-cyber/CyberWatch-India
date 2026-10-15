@@ -1,0 +1,217 @@
+state_ut_standard,year,population_persons,previous_year_cases,previous_year_crime_rate_per_100k,boundary_comparability,boundary_break_flag,target_reported_cases,target_missing
+Andaman and Nicobar Islands,2018,67000,,,current_boundary_series,False,7.0,False
+Andaman and Nicobar Islands,2019,68000,7.0,10.44776119402985,current_boundary_series,False,2.0,False
+Andaman and Nicobar Islands,2020,68000,2.0,2.9411764705882355,current_boundary_series,False,5.0,False
+Andaman and Nicobar Islands,2021,68000,5.0,7.352941176470588,current_boundary_series,False,8.0,False
+Andaman and Nicobar Islands,2022,69000,8.0,11.764705882352942,current_boundary_series,False,28.0,False
+Andaman and Nicobar Islands,2023,69000,28.0,40.57971014492754,current_boundary_series,False,47.0,False
+Andhra Pradesh,2018,52103000,,,current_boundary_series,False,1207.0,False
+Andhra Pradesh,2019,52386000,1207.0,2.316565264955953,current_boundary_series,False,1886.0,False
+Andhra Pradesh,2020,52669000,1886.0,3.600198526323827,current_boundary_series,False,1899.0,False
+Andhra Pradesh,2021,52895000,1899.0,3.6055364635743987,current_boundary_series,False,1875.0,False
+Andhra Pradesh,2022,53079000,1875.0,3.544758483788638,current_boundary_series,False,2341.0,False
+Andhra Pradesh,2023,53263000,2341.0,4.410407128996401,current_boundary_series,False,2341.0,False
+Arunachal Pradesh,2018,1496000,,,current_boundary_series,False,7.0,False
+Arunachal Pradesh,2019,1511000,7.0,0.4679144385026738,current_boundary_series,False,8.0,False
+Arunachal Pradesh,2020,1526000,8.0,0.5294506949040371,current_boundary_series,False,30.0,False
+Arunachal Pradesh,2021,1540000,30.0,1.9659239842726082,current_boundary_series,False,47.0,False
+Arunachal Pradesh,2022,1555000,47.0,3.051948051948052,current_boundary_series,False,14.0,False
+Arunachal Pradesh,2023,1569000,14.0,0.9003215434083601,current_boundary_series,False,24.0,False
+Assam,2018,34137000,,,current_boundary_series,False,2022.0,False
+Assam,2019,34512000,2022.0,5.923191844626066,current_boundary_series,False,2231.0,False
+Assam,2020,34887000,2231.0,6.464418173388966,current_boundary_series,False,3530.0,False
+Assam,2021,35239000,3530.0,10.118382205406025,current_boundary_series,False,4846.0,False
+Assam,2022,35573000,4846.0,13.751809075172394,current_boundary_series,False,1733.0,False
+Assam,2023,35908000,1733.0,4.871672335760268,current_boundary_series,False,909.0,False
+Bihar,2018,118778000,,,current_boundary_series,False,374.0,False
+Bihar,2019,120559000,374.0,0.31487312465271344,current_boundary_series,False,1050.0,False
+Bihar,2020,122341000,1050.0,0.8709428578538309,current_boundary_series,False,1512.0,False
+Bihar,2021,124154000,1512.0,1.2358898488650576,current_boundary_series,False,1413.0,False
+Bihar,2022,125991000,1413.0,1.138102678931005,current_boundary_series,False,1621.0,False
+Bihar,2023,127827000,1621.0,1.2865998364962576,current_boundary_series,False,4450.0,False
+Chandigarh,2018,1173000,,,current_boundary_series,False,30.0,False
+Chandigarh,2019,1187000,30.0,2.557544757033248,current_boundary_series,False,23.0,False
+Chandigarh,2020,1202000,23.0,1.9376579612468408,current_boundary_series,False,17.0,False
+Chandigarh,2021,1215000,17.0,1.4143094841930117,current_boundary_series,False,15.0,False
+Chandigarh,2022,1226000,15.0,1.2345679012345678,current_boundary_series,False,27.0,False
+Chandigarh,2023,1238000,27.0,2.202283849918434,current_boundary_series,False,23.0,False
+Chhattisgarh,2018,28564000,,,current_boundary_series,False,139.0,False
+Chhattisgarh,2019,28948000,139.0,0.486626522895953,current_boundary_series,False,175.0,False
+Chhattisgarh,2020,29333000,175.0,0.6045322647505873,current_boundary_series,False,297.0,False
+Chhattisgarh,2021,29693000,297.0,1.012511505812566,current_boundary_series,False,352.0,False
+Chhattisgarh,2022,30037000,352.0,1.1854645876132421,current_boundary_series,False,439.0,False
+Chhattisgarh,2023,30380000,439.0,1.4615307787062624,current_boundary_series,False,473.0,False
+Dadra and Nagar Haveli and Daman and Diu,2018,935000,,,current_boundary_series,False,0.0,False
+Dadra and Nagar Haveli and Daman and Diu,2019,994000,0.0,0.0,current_boundary_series,False,3.0,False
+Dadra and Nagar Haveli and Daman and Diu,2020,1053000,3.0,0.3018108651911469,current_boundary_series,False,3.0,False
+Dadra and Nagar Haveli and Daman and Diu,2021,1132000,3.0,0.2849002849002849,current_boundary_series,False,5.0,False
+Dadra and Nagar Haveli and Daman and Diu,2022,1224000,5.0,0.441696113074205,current_boundary_series,False,5.0,False
+Dadra and Nagar Haveli and Daman and Diu,2023,1317000,5.0,0.40849673202614384,current_boundary_series,False,6.0,False
+Delhi,2018,19656000,,,current_boundary_series,False,189.0,False
+Delhi,2019,20035000,189.0,0.9615384615384616,current_boundary_series,False,115.0,False
+Delhi,2020,20414000,115.0,0.5739955078612429,current_boundary_series,False,168.0,False
+Delhi,2021,20801000,168.0,0.822964632115215,current_boundary_series,False,356.0,False
+Delhi,2022,21195000,356.0,1.7114561799913468,current_boundary_series,False,685.0,False
+Delhi,2023,21588000,685.0,3.2318943146968624,current_boundary_series,False,407.0,False
+Goa,2018,1536000,,,current_boundary_series,False,29.0,False
+Goa,2019,1545000,29.0,1.8880208333333335,current_boundary_series,False,15.0,False
+Goa,2020,1555000,15.0,0.970873786407767,current_boundary_series,False,40.0,False
+Goa,2021,1563000,40.0,2.572347266881029,current_boundary_series,False,36.0,False
+Goa,2022,1571000,36.0,2.3032629558541267,current_boundary_series,False,90.0,False
+Goa,2023,1579000,90.0,5.728835136855506,current_boundary_series,False,86.0,False
+Gujarat,2018,67550000,,,current_boundary_series,False,702.0,False
+Gujarat,2019,68476000,702.0,1.0392301998519615,current_boundary_series,False,784.0,False
+Gujarat,2020,69402000,784.0,1.1449266896430865,current_boundary_series,False,1283.0,False
+Gujarat,2021,70289000,1283.0,1.8486498948157115,current_boundary_series,False,1536.0,False
+Gujarat,2022,71149000,1536.0,2.1852636970222936,current_boundary_series,False,1417.0,False
+Gujarat,2023,72009000,1417.0,1.9915951032340582,current_boundary_series,False,1995.0,False
+Haryana,2018,28503000,,,current_boundary_series,False,418.0,False
+Haryana,2019,28908000,418.0,1.4665122969511981,current_boundary_series,False,564.0,False
+Haryana,2020,29314000,564.0,1.9510170195101704,current_boundary_series,False,656.0,False
+Haryana,2021,29695000,656.0,2.2378385754247114,current_boundary_series,False,622.0,False
+Haryana,2022,30058000,622.0,2.0946287253746423,current_boundary_series,False,681.0,False
+Haryana,2023,30421000,681.0,2.265619801716681,current_boundary_series,False,751.0,False
+Himachal Pradesh,2018,7280000,,,current_boundary_series,False,69.0,False
+Himachal Pradesh,2019,7327000,69.0,0.9478021978021979,current_boundary_series,False,76.0,False
+Himachal Pradesh,2020,7374000,76.0,1.037259451344343,current_boundary_series,False,98.0,False
+Himachal Pradesh,2021,7415000,98.0,1.3289937618660157,current_boundary_series,False,70.0,False
+Himachal Pradesh,2022,7453000,70.0,0.9440323668240054,current_boundary_series,False,77.0,False
+Himachal Pradesh,2023,7490000,77.0,1.033141017040118,current_boundary_series,False,127.0,False
+Jammu and Kashmir,2018,13161000,,,historical_boundary_not_comparable,True,73.0,False
+Jammu and Kashmir,2019,13263000,73.0,,historical_boundary_not_comparable,True,73.0,False
+Jammu and Kashmir,2020,13365000,,,current_boundary_series,True,120.0,False
+Jammu and Kashmir,2021,13465000,120.0,0.8978675645342311,current_boundary_series,False,154.0,False
+Jammu and Kashmir,2022,13562000,154.0,1.1437059041960638,current_boundary_series,False,173.0,False
+Jammu and Kashmir,2023,13660000,173.0,1.2756230644447721,current_boundary_series,False,185.0,False
+Jharkhand,2018,37180000,,,current_boundary_series,False,930.0,False
+Jharkhand,2019,37715000,930.0,2.5013448090371164,current_boundary_series,False,1095.0,False
+Jharkhand,2020,38249000,1095.0,2.903354103141986,current_boundary_series,False,1204.0,False
+Jharkhand,2021,38762000,1204.0,3.1477947135872832,current_boundary_series,False,953.0,False
+Jharkhand,2022,39259000,953.0,2.4585934678293175,current_boundary_series,False,967.0,False
+Jharkhand,2023,39756000,967.0,2.463129473496523,current_boundary_series,False,1079.0,False
+Karnataka,2018,65580000,,,current_boundary_series,False,5839.0,False
+Karnataka,2019,66104000,5839.0,8.903629155230252,current_boundary_series,False,12020.0,False
+Karnataka,2020,66627000,12020.0,18.183468473919884,current_boundary_series,False,10741.0,False
+Karnataka,2021,67092000,10741.0,16.121092049769615,current_boundary_series,False,8136.0,False
+Karnataka,2022,67515000,8136.0,12.126632087283133,current_boundary_series,False,12556.0,False
+Karnataka,2023,67939000,12556.0,18.59734873731763,current_boundary_series,False,21889.0,False
+Kerala,2018,35049000,,,current_boundary_series,False,340.0,False
+Kerala,2019,35231000,340.0,0.970070472766698,current_boundary_series,False,307.0,False
+Kerala,2020,35413000,307.0,0.8713916721069512,current_boundary_series,False,426.0,False
+Kerala,2021,35573000,426.0,1.2029480699178268,current_boundary_series,False,626.0,False
+Kerala,2022,35716000,626.0,1.7597616169566808,current_boundary_series,False,773.0,False
+Kerala,2023,35860000,773.0,2.164296113786538,current_boundary_series,False,3295.0,False
+Ladakh,2018,292000,,,historical_boundary_not_comparable,True,,True
+Ladakh,2019,294000,,,historical_boundary_not_comparable,True,,True
+Ladakh,2020,296000,,,current_boundary_series,True,1.0,False
+Ladakh,2021,298000,1.0,0.33783783783783783,current_boundary_series,False,5.0,False
+Ladakh,2022,300000,5.0,1.6778523489932884,current_boundary_series,False,3.0,False
+Ladakh,2023,301000,3.0,1.0,current_boundary_series,False,1.0,False
+Lakshadweep,2018,1489000,,,current_boundary_series,False,4.0,False
+Lakshadweep,2019,1523000,4.0,0.2686366689053056,current_boundary_series,False,4.0,False
+Lakshadweep,2020,1557000,4.0,0.2626395272488509,current_boundary_series,False,3.0,False
+Lakshadweep,2021,1593000,3.0,0.19267822736030826,current_boundary_series,False,1.0,False
+Lakshadweep,2022,1630000,1.0,0.06277463904582549,current_boundary_series,False,1.0,False
+Lakshadweep,2023,1667000,1.0,0.06134969325153374,current_boundary_series,False,1.0,False
+Madhya Pradesh,2018,81756000,,,current_boundary_series,False,740.0,False
+Madhya Pradesh,2019,82898000,740.0,0.9051323450266647,current_boundary_series,False,602.0,False
+Madhya Pradesh,2020,84040000,602.0,0.7261936355521242,current_boundary_series,False,699.0,False
+Madhya Pradesh,2021,85118000,699.0,0.8317467872441694,current_boundary_series,False,589.0,False
+Madhya Pradesh,2022,86149000,589.0,0.6919805446556545,current_boundary_series,False,826.0,False
+Madhya Pradesh,2023,87180000,826.0,0.9588039327212156,current_boundary_series,False,685.0,False
+Maharashtra,2018,121677000,,,current_boundary_series,False,3511.0,False
+Maharashtra,2019,122819000,3511.0,2.8855083540849957,current_boundary_series,False,4967.0,False
+Maharashtra,2020,123961000,4967.0,4.044162548139946,current_boundary_series,False,5496.0,False
+Maharashtra,2021,125005000,5496.0,4.433652519744113,current_boundary_series,False,5562.0,False
+Maharashtra,2022,125979000,5562.0,4.449422023119075,current_boundary_series,False,8249.0,False
+Maharashtra,2023,126954000,8249.0,6.54791671627811,current_boundary_series,False,8103.0,False
+Manipur,2018,3088000,,,current_boundary_series,False,29.0,False
+Manipur,2019,3119000,29.0,0.939119170984456,current_boundary_series,False,4.0,False
+Manipur,2020,3149000,4.0,0.12824623276691247,current_boundary_series,False,79.0,False
+Manipur,2021,3179000,79.0,2.508732931089235,current_boundary_series,False,67.0,False
+Manipur,2022,3209000,67.0,2.107581000314564,current_boundary_series,False,18.0,False
+Manipur,2023,3238000,18.0,0.5609224057338735,current_boundary_series,False,3.0,False
+Meghalaya,2018,3208000,,,current_boundary_series,False,74.0,False
+Meghalaya,2019,3240000,74.0,2.306733167082294,current_boundary_series,False,89.0,False
+Meghalaya,2020,3272000,89.0,2.7469135802469133,current_boundary_series,False,142.0,False
+Meghalaya,2021,3303000,142.0,4.3398533007334965,current_boundary_series,False,107.0,False
+Meghalaya,2022,3333000,107.0,3.2394792612776264,current_boundary_series,False,75.0,False
+Meghalaya,2023,3364000,75.0,2.25022502250225,current_boundary_series,False,64.0,False
+Mizoram,2018,1186000,,,current_boundary_series,False,6.0,False
+Mizoram,2019,1198000,6.0,0.5059021922428331,current_boundary_series,False,8.0,False
+Mizoram,2020,1210000,8.0,0.667779632721202,current_boundary_series,False,13.0,False
+Mizoram,2021,1221000,13.0,1.0743801652892562,current_boundary_series,False,30.0,False
+Mizoram,2022,1233000,30.0,2.457002457002457,current_boundary_series,False,1.0,False
+Mizoram,2023,1244000,1.0,0.08110300081103,current_boundary_series,False,31.0,False
+Nagaland,2018,2139000,,,current_boundary_series,False,2.0,False
+Nagaland,2019,2161000,2.0,0.09350163627863488,current_boundary_series,False,2.0,False
+Nagaland,2020,2182000,2.0,0.0925497454881999,current_boundary_series,False,8.0,False
+Nagaland,2021,2203000,8.0,0.36663611365719523,current_boundary_series,False,8.0,False
+Nagaland,2022,2223000,8.0,0.3631411711302769,current_boundary_series,False,4.0,False
+Nagaland,2023,2243000,4.0,0.1799370220422852,current_boundary_series,False,2.0,False
+Odisha,2018,44860000,,,current_boundary_series,False,843.0,False
+Odisha,2019,45205000,843.0,1.8791796700847079,current_boundary_series,False,1485.0,False
+Odisha,2020,45552000,1485.0,3.2850348412786197,current_boundary_series,False,1931.0,False
+Odisha,2021,45865000,1931.0,4.239111345275729,current_boundary_series,False,2037.0,False
+Odisha,2022,46156000,2037.0,4.441295105200044,current_boundary_series,False,1983.0,False
+Odisha,2023,46446000,1983.0,4.296299506023052,current_boundary_series,False,2348.0,False
+Puducherry,2018,396000,,,current_boundary_series,False,14.0,False
+Puducherry,2019,398000,14.0,3.535353535353535,current_boundary_series,False,4.0,False
+Puducherry,2020,400000,4.0,1.0050251256281408,current_boundary_series,False,10.0,False
+Puducherry,2021,401000,10.0,2.5,current_boundary_series,False,0.0,False
+Puducherry,2022,402000,0.0,0.0,current_boundary_series,False,64.0,False
+Puducherry,2023,403000,64.0,15.92039800995025,current_boundary_series,False,147.0,False
+Punjab,2018,29759000,,,current_boundary_series,False,239.0,False
+Punjab,2019,29999000,239.0,0.8031183843543129,current_boundary_series,False,243.0,False
+Punjab,2020,30239000,243.0,0.81002700090003,current_boundary_series,False,378.0,False
+Punjab,2021,30453000,378.0,1.2500413373458117,current_boundary_series,False,551.0,False
+Punjab,2022,30649000,551.0,1.8093455488785999,current_boundary_series,False,697.0,False
+Punjab,2023,30845000,697.0,2.2741361871512935,current_boundary_series,False,511.0,False
+Rajasthan,2018,76844000,,,current_boundary_series,False,1104.0,False
+Rajasthan,2019,77853000,1104.0,1.4366769038571652,current_boundary_series,False,1762.0,False
+Rajasthan,2020,78861000,1762.0,2.263239695323237,current_boundary_series,False,1354.0,False
+Rajasthan,2021,79790000,1354.0,1.7169450045015913,current_boundary_series,False,1504.0,False
+Rajasthan,2022,80662000,1504.0,1.884947988469733,current_boundary_series,False,1833.0,False
+Rajasthan,2023,81534000,1833.0,2.272445513376807,current_boundary_series,False,2435.0,False
+Sikkim,2018,660000,,,current_boundary_series,False,1.0,False
+Sikkim,2019,667000,1.0,0.15151515151515152,current_boundary_series,False,2.0,False
+Sikkim,2020,673000,2.0,0.2998500749625187,current_boundary_series,False,0.0,False
+Sikkim,2021,680000,0.0,0.0,current_boundary_series,False,0.0,False
+Sikkim,2022,686000,0.0,0.0,current_boundary_series,False,26.0,False
+Sikkim,2023,692000,26.0,3.7900874635568513,current_boundary_series,False,12.0,False
+Tamil Nadu,2018,75548000,,,current_boundary_series,False,295.0,False
+Tamil Nadu,2019,75902000,295.0,0.39048022449303754,current_boundary_series,False,385.0,False
+Tamil Nadu,2020,76255000,385.0,0.5072330109878528,current_boundary_series,False,782.0,False
+Tamil Nadu,2021,76536000,782.0,1.02550652416235,current_boundary_series,False,1076.0,False
+Tamil Nadu,2022,76765000,1076.0,1.405874359778405,current_boundary_series,False,2082.0,False
+Tamil Nadu,2023,76993000,2082.0,2.712173516576565,current_boundary_series,False,4121.0,False
+Telangana,2018,37093000,,,current_boundary_series,False,1205.0,False
+Telangana,2019,37346000,1205.0,3.248591378427196,current_boundary_series,False,2691.0,False
+Telangana,2020,37599000,2691.0,7.205590960209929,current_boundary_series,False,5024.0,False
+Telangana,2021,37816000,5024.0,13.362057501529296,current_boundary_series,False,10303.0,False
+Telangana,2022,37999000,10303.0,27.24508144700656,current_boundary_series,False,15297.0,False
+Telangana,2023,38181000,15297.0,40.256322534803544,current_boundary_series,False,18236.0,False
+Tripura,2018,3973000,,,current_boundary_series,False,20.0,False
+Tripura,2019,4012000,20.0,0.5033979360684622,current_boundary_series,False,20.0,False
+Tripura,2020,4051000,20.0,0.4985044865403788,current_boundary_series,False,34.0,False
+Tripura,2021,4090000,34.0,0.8392989385336954,current_boundary_series,False,24.0,False
+Tripura,2022,4128000,24.0,0.58679706601467,current_boundary_series,False,30.0,False
+Tripura,2023,4165000,30.0,0.7267441860465117,current_boundary_series,False,36.0,False
+Uttar Pradesh,2018,223744000,,,current_boundary_series,False,6280.0,False
+Uttar Pradesh,2019,226708000,6280.0,2.806779176201373,current_boundary_series,False,11416.0,False
+Uttar Pradesh,2020,229672000,11416.0,5.035552340455564,current_boundary_series,False,11097.0,False
+Uttar Pradesh,2021,232301000,11097.0,4.831672994531331,current_boundary_series,False,8829.0,False
+Uttar Pradesh,2022,234692000,8829.0,3.8006724034765242,current_boundary_series,False,10117.0,False
+Uttar Pradesh,2023,237082000,10117.0,4.310756225180236,current_boundary_series,False,10794.0,False
+Uttarakhand,2018,11088000,,,current_boundary_series,False,171.0,False
+Uttarakhand,2019,11217000,171.0,1.5422077922077921,current_boundary_series,False,100.0,False
+Uttarakhand,2020,11346000,100.0,0.8915039671926539,current_boundary_series,False,243.0,False
+Uttarakhand,2021,11468000,243.0,2.141723955579059,current_boundary_series,False,718.0,False
+Uttarakhand,2022,11587000,718.0,6.260899895361004,current_boundary_series,False,559.0,False
+Uttarakhand,2023,11706000,559.0,4.824372141192716,current_boundary_series,False,494.0,False
+West Bengal,2018,96653000,,,current_boundary_series,False,335.0,False
+West Bengal,2019,97262000,335.0,0.3466007263095817,current_boundary_series,False,524.0,False
+West Bengal,2020,97871000,524.0,0.5387510024469988,current_boundary_series,False,712.0,False
+West Bengal,2021,98404000,712.0,0.7274882242952458,current_boundary_series,False,513.0,False
+West Bengal,2022,98884000,513.0,0.5213202715336775,current_boundary_series,False,401.0,False
+West Bengal,2023,99363000,401.0,0.40552566643744187,current_boundary_series,False,309.0,False

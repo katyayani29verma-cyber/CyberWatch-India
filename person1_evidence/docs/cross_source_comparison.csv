@@ -1,0 +1,397 @@
+state_ut_normalised_for_matching,year,S01,S02,S03,S04,S05a,S06,S07,S08,S09a,n_sources,all_sources_agree
+A&N Islands,2014,13,,,,,,,13,,2,True
+Andhra Pradesh,2014,282,,,,,,,282,,2,True
+Arunachal Pradesh,2014,18,,,,,,,18,,2,True
+Assam,2014,379,,,,,,,379,,2,True
+Bihar,2014,114,,,,,,,114,,2,True
+Chandigarh,2014,55,,,,,,,55,,2,True
+Chhattisgarh,2014,123,,,,,,,123,,2,True
+D&N Haveli,2014,,,,,,,,3,,1,True
+D&N Haveli and Daman & Diu,2014,4,,,,,,,,,1,True
+Daman & Diu,2014,,,,,,,,1,,1,True
+Delhi,2014,226,,,,,,,226,,2,True
+Goa,2014,62,,,,,,,62,,2,True
+Gujarat,2014,227,,,,,,,227,,2,True
+Haryana,2014,151,,,,,,,151,,2,True
+Himachal Pradesh,2014,38,,,,,,,38,,2,True
+Jammu & Kashmir,2014,37,,,,,,,37,,2,True
+Jharkhand,2014,93,,,,,,,93,,2,True
+Karnataka,2014,1020,,,,,,,1020,,2,True
+Kerala,2014,450,,,,,,,450,,2,True
+Ladakh,2014,,,,,,,,,,1,True
+Lakshadweep,2014,1,,,,,,,1,,2,True
+Madhya Pradesh,2014,289,,,,,,,289,,2,True
+Maharashtra,2014,1879,,,,,,,1879,,2,True
+Manipur,2014,13,,,,,,,13,,2,True
+Meghalaya,2014,60,,,,,,,60,,2,True
+Mizoram,2014,22,,,,,,,22,,2,True
+Nagaland,2014,0,,,,,,,0,,2,True
+Odisha,2014,124,,,,,,,124,,2,True
+Puducherry,2014,1,,,,,,,1,,2,True
+Punjab,2014,226,,,,,,,226,,2,True
+Rajasthan,2014,697,,,,,,,697,,2,True
+Sikkim,2014,4,,,,,,,4,,2,True
+TOTAL (ALL INDIA),2014,9622,,,,,,,9622,,2,True
+TOTAL STATE(S),2014,9285,,,,,,,9322,,2,False
+TOTAL UT(S),2014,337,,,,,,,300,,2,False
+Tamil Nadu,2014,172,,,,,,,172,,2,True
+Telangana,2014,703,,,,,,,703,,2,True
+Tripura,2014,5,,,,,,,5,,2,True
+Uttar Pradesh,2014,1737,,,,,,,1737,,2,True
+Uttarakhand,2014,42,,,,,,,42,,2,True
+West Bengal,2014,355,,,,,,,355,,2,True
+A&N Islands,2015,6,,,,,,,6,,2,True
+Andhra Pradesh,2015,536,,,,,,,536,,2,True
+Arunachal Pradesh,2015,6,,,,,,,6,,2,True
+Assam,2015,483,,,,,,,483,,2,True
+Bihar,2015,242,,,,,,,242,,2,True
+Chandigarh,2015,77,,,,,,,77,,2,True
+Chhattisgarh,2015,103,,,,,,,103,,2,True
+D&N Haveli,2015,,,,,,,,0,,1,True
+D&N Haveli and Daman & Diu,2015,1,,,,,,,,,1,True
+Daman & Diu,2015,,,,,,,,1,,1,True
+Delhi,2015,177,,,,,,,177,,2,True
+Goa,2015,17,,,,,,,17,,2,True
+Gujarat,2015,242,,,,,,,242,,2,True
+Haryana,2015,224,,,,,,,224,,2,True
+Himachal Pradesh,2015,50,,,,,,,50,,2,True
+Jammu & Kashmir,2015,34,,,,,,,34,,2,True
+Jharkhand,2015,180,,,,,,,180,,2,True
+Karnataka,2015,1447,,,,,,,1447,,2,True
+Kerala,2015,290,,,,,,,290,,2,True
+Ladakh,2015,,,,,,,,,,1,True
+Lakshadweep,2015,0,,,,,,,0,,2,True
+Madhya Pradesh,2015,231,,,,,,,231,,2,True
+Maharashtra,2015,2195,,,,,,,2195,,2,True
+Manipur,2015,6,,,,,,,6,,2,True
+Meghalaya,2015,56,,,,,,,56,,2,True
+Mizoram,2015,8,,,,,,,8,,2,True
+Nagaland,2015,0,,,,,,,0,,2,True
+Odisha,2015,386,,,,,,,386,,2,True
+Puducherry,2015,0,,,,,,,0,,2,True
+Punjab,2015,149,,,,,,,149,,2,True
+Rajasthan,2015,949,,,,,,,949,,2,True
+Sikkim,2015,1,,,,,,,1,,2,True
+TOTAL (ALL INDIA),2015,11592,,,,,,,11592,,2,True
+TOTAL STATE(S),2015,11297,,,,,,,11331,,2,False
+TOTAL UT(S),2015,295,,,,,,,261,,2,False
+Tamil Nadu,2015,142,,,,,,,142,,2,True
+Telangana,2015,687,,,,,,,687,,2,True
+Tripura,2015,13,,,,,,,13,,2,True
+Uttar Pradesh,2015,2208,,,,,,,2208,,2,True
+Uttarakhand,2015,48,,,,,,,48,,2,True
+West Bengal,2015,398,,,,,,,398,,2,True
+A&N Islands,2016,3,,,,,,,3,,2,True
+Andhra Pradesh,2016,616,,,,,,,616,,2,True
+Arunachal Pradesh,2016,4,,,,,,,4,,2,True
+Assam,2016,696,,,,,,,696,,2,True
+Bihar,2016,309,,,,,,,309,,2,True
+Chandigarh,2016,26,,,,,,,26,,2,True
+Chhattisgarh,2016,90,,,,,,,90,,2,True
+D&N Haveli,2016,,,,,,,,1,,1,True
+D&N Haveli and Daman & Diu,2016,1,,,,,,,,,1,True
+Daman & Diu,2016,,,,,,,,0,,1,True
+Delhi,2016,98,,,,,,,98,,2,True
+Goa,2016,31,,,,,,,31,,2,True
+Gujarat,2016,362,,,,,,,362,,2,True
+Haryana,2016,401,,,,,,,401,,2,True
+Himachal Pradesh,2016,31,,,,,,,31,,2,True
+Jammu & Kashmir,2016,28,,,,,,,28,,2,True
+Jharkhand,2016,259,,,,,,,259,,2,True
+Karnataka,2016,1101,,,,,,,1101,,2,True
+Kerala,2016,283,,,,,,,283,,2,True
+Ladakh,2016,,,,,,,,,,1,True
+Lakshadweep,2016,0,,,,,,,0,,2,True
+Madhya Pradesh,2016,258,,,,,,,258,,2,True
+Maharashtra,2016,2380,,,,,,,2380,,2,True
+Manipur,2016,11,,,,,,,11,,2,True
+Meghalaya,2016,39,,,,,,,39,,2,True
+Mizoram,2016,1,,,,,,,1,,2,True
+Nagaland,2016,2,,,,,,,2,,2,True
+Odisha,2016,317,,,,,,,317,,2,True
+Puducherry,2016,2,,,,,,,2,,2,True
+Punjab,2016,102,,,,,,,102,,2,True
+Rajasthan,2016,941,,,,,,,941,,2,True
+Sikkim,2016,1,,,,,,,1,,2,True
+TOTAL (ALL INDIA),2016,12317,,,,,,,12317,,2,True
+TOTAL STATE(S),2016,12159,,,,,,,12187,,2,False
+TOTAL UT(S),2016,158,,,,,,,130,,2,False
+Tamil Nadu,2016,144,,,,,,,144,,2,True
+Telangana,2016,593,,,,,,,593,,2,True
+Tripura,2016,8,,,,,,,8,,2,True
+Uttar Pradesh,2016,2639,,,,,,,2639,,2,True
+Uttarakhand,2016,62,,,,,,,62,,2,True
+West Bengal,2016,478,,,,,,,478,,2,True
+A&N Islands,2017,3,,,,,,,,,1,True
+Andhra Pradesh,2017,931,,,,,,,,,1,True
+Arunachal Pradesh,2017,1,,,,,,,,,1,True
+Assam,2017,1120,,,,,,,,,1,True
+Bihar,2017,433,,,,,,,,,1,True
+Chandigarh,2017,32,,,,,,,,,1,True
+Chhattisgarh,2017,171,,,,,,,,,1,True
+D&N Haveli and Daman & Diu,2017,1,,,,,,,,,1,True
+Delhi,2017,162,,,,,,,,,1,True
+Goa,2017,13,,,,,,,,,1,True
+Gujarat,2017,458,,,,,,,,,1,True
+Haryana,2017,504,,,,,,,,,1,True
+Himachal Pradesh,2017,56,,,,,,,,,1,True
+Jammu & Kashmir,2017,63,,,,,,,,,1,True
+Jharkhand,2017,720,,,,,,,,,1,True
+Karnataka,2017,3174,,,,,,,,,1,True
+Kerala,2017,320,,,,,,,,,1,True
+Ladakh,2017,,,,,,,,,,1,True
+Lakshadweep,2017,0,,,,,,,,,1,True
+Madhya Pradesh,2017,490,,,,,,,,,1,True
+Maharashtra,2017,3604,,,,,,,,,1,True
+Manipur,2017,74,,,,,,,,,1,True
+Meghalaya,2017,39,,,,,,,,,1,True
+Mizoram,2017,10,,,,,,,,,1,True
+Nagaland,2017,0,,,,,,,,,1,True
+Odisha,2017,824,,,,,,,,,1,True
+Puducherry,2017,5,,,,,,,,,1,True
+Punjab,2017,176,,,,,,,,,1,True
+Rajasthan,2017,1304,,,,,,,,,1,True
+Sikkim,2017,1,,,,,,,,,1,True
+TOTAL (ALL INDIA),2017,21796,,,,,,,,,1,True
+TOTAL STATE(S),2017,21530,,,,,,,,,1,True
+TOTAL UT(S),2017,266,,,,,,,,,1,True
+Tamil Nadu,2017,228,,,,,,,,,1,True
+Telangana,2017,1209,,,,,,,,,1,True
+Tripura,2017,7,,,,,,,,,1,True
+Uttar Pradesh,2017,4971,,,,,,,,,1,True
+Uttarakhand,2017,124,,,,,,,,,1,True
+West Bengal,2017,568,,,,,,,,,1,True
+A&N Islands,2018,7,,,7,7,,,,,3,True
+Andhra Pradesh,2018,1207,,,1207,1207,,,,,3,True
+Arunachal Pradesh,2018,7,,,7,7,,,,,3,True
+Assam,2018,2022,,,2022,2022,,,,,3,True
+Bihar,2018,374,,,374,374,,,,,3,True
+Chandigarh,2018,30,,,30,30,,,,,3,True
+Chhattisgarh,2018,139,,,139,139,,,,,3,True
+D&N Haveli and Daman & Diu,2018,0,,,0,0,,,,,3,True
+Delhi,2018,189,,,189,189,,,,,3,True
+Goa,2018,29,,,29,29,,,,,3,True
+Gujarat,2018,702,,,702,702,,,,,3,True
+Haryana,2018,418,,,418,418,,,,,3,True
+Himachal Pradesh,2018,69,,,69,69,,,,,3,True
+Jammu & Kashmir,2018,73,,,73,73,,,,,3,True
+Jharkhand,2018,930,,,930,930,,,,,3,True
+Karnataka,2018,5839,,,5839,5839,,,,,3,True
+Kerala,2018,340,,,340,340,,,,,3,True
+Ladakh,2018,,,,-,-,,,,,3,True
+Lakshadweep,2018,4,,,4,4,,,,,3,True
+Madhya Pradesh,2018,740,,,740,740,,,,,3,True
+Maharashtra,2018,3511,,,3511,3511,,,,,3,True
+Manipur,2018,29,,,29,29,,,,,3,True
+Meghalaya,2018,74,,,74,74,,,,,3,True
+Mizoram,2018,6,,,6,6,,,,,3,True
+Nagaland,2018,2,,,2,2,,,,,3,True
+Odisha,2018,843,,,843,843,,,,,3,True
+Puducherry,2018,14,,,14,14,,,,,3,True
+Punjab,2018,239,,,239,239,,,,,3,True
+Rajasthan,2018,1104,,,1104,1104,,,,,3,True
+Sikkim,2018,1,,,1,1,,,,,3,True
+TOTAL (ALL INDIA),2018,27248,,,27248,27248,,,,,3,True
+TOTAL STATE(S),2018,26931,,,26931,26931,,,,,3,True
+TOTAL UT(S),2018,317,,,317,317,,,,,3,True
+Tamil Nadu,2018,295,,,295,295,,,,,3,True
+Telangana,2018,1205,,,1205,1205,,,,,3,True
+Tripura,2018,20,,,20,20,,,,,3,True
+Uttar Pradesh,2018,6280,,,6280,6280,,,,,3,True
+Uttarakhand,2018,171,,,171,171,,,,,3,True
+West Bengal,2018,335,,,335,335,,,,,3,True
+A&N Islands,2019,2,,,2,2,,2,,,4,True
+Andhra Pradesh,2019,1886,,,1886,1886,,1886,,,4,True
+Arunachal Pradesh,2019,8,,,8,8,,8,,,4,True
+Assam,2019,2231,,,2231,2231,,2231,,,4,True
+Bihar,2019,1050,,,1050,1050,,1050,,,4,True
+Chandigarh,2019,23,,,23,23,,23,,,4,True
+Chhattisgarh,2019,175,,,175,175,,175,,,4,True
+D&N Haveli and Daman & Diu,2019,3,,,3,3,,3,,,4,True
+Delhi,2019,115,,,115,115,,115,,,4,True
+Goa,2019,15,,,15,15,,15,,,4,True
+Gujarat,2019,784,,,784,784,,784,,,4,True
+Haryana,2019,564,,,564,564,,564,,,4,True
+Himachal Pradesh,2019,76,,,76,76,,76,,,4,True
+Jammu & Kashmir,2019,73,,,73,73,,73,,,4,True
+Jharkhand,2019,1095,,,1095,1095,,1095,,,4,True
+Karnataka,2019,12020,,,12020,12020,,12020,,,4,True
+Kerala,2019,307,,,307,307,,307,,,4,True
+Ladakh,2019,,,,-,-,,-,,,4,True
+Lakshadweep,2019,4,,,4,4,,4,,,4,True
+Madhya Pradesh,2019,602,,,602,602,,602,,,4,True
+Maharashtra,2019,4967,,,4967,4967,,4967,,,4,True
+Manipur,2019,4,,,4,4,,4,,,4,True
+Meghalaya,2019,89,,,89,89,,89,,,4,True
+Mizoram,2019,8,,,8,8,,8,,,4,True
+Nagaland,2019,2,,,2,2,,2,,,4,True
+Odisha,2019,1485,,,1485,1485,,1485,,,4,True
+Puducherry,2019,4,,,4,4,,4,,,4,True
+Punjab,2019,243,,,243,243,,243,,,4,True
+Rajasthan,2019,1762,,,1762,1762,,1762,,,4,True
+Sikkim,2019,2,,,2,2,,2,,,4,True
+TOTAL (ALL INDIA),2019,44735,,,44735,44735,,44735,,,4,True
+TOTAL STATE(S),2019,44511,,,44511,44511,,44511,,,4,True
+TOTAL UT(S),2019,224,,,224,224,,224,,,4,True
+Tamil Nadu,2019,385,,,385,385,,385,,,4,True
+Telangana,2019,2691,,,2691,2691,,2691,,,4,True
+Tripura,2019,20,,,20,20,,20,,,4,True
+Uttar Pradesh,2019,11416,,,11416,11416,,11416,,,4,True
+Uttarakhand,2019,100,,,100,100,,100,,,4,True
+West Bengal,2019,524,,,524,524,,524,,,4,True
+A&N Islands,2020,5,,,5,5,5,5,,5,6,True
+Andhra Pradesh,2020,1899,,,1899,1899,1899,1899,,1899,6,True
+Arunachal Pradesh,2020,30,,,30,30,30,30,,30,6,True
+Assam,2020,3530,,,3530,3530,3530,3530,,3530,6,True
+Bihar,2020,1512,,,1512,1512,1512,1512,,1512,6,True
+Chandigarh,2020,17,,,17,17,17,17,,17,6,True
+Chhattisgarh,2020,297,,,297,297,297,297,,297,6,True
+D&N Haveli and Daman & Diu,2020,3,,,3,3,3,3,,3,6,True
+Delhi,2020,168,,,168,168,168,168,,168,6,True
+Goa,2020,40,,,40,40,40,40,,40,6,True
+Gujarat,2020,1283,,,1283,1283,1283,1283,,1283,6,True
+Haryana,2020,656,,,656,656,656,656,,656,6,True
+Himachal Pradesh,2020,98,,,98,98,98,98,,98,6,True
+Jammu & Kashmir,2020,120,,,120,120,120,120,,120,6,True
+Jharkhand,2020,1204,,,1204,1204,1204,1204,,1204,6,True
+Karnataka,2020,10741,,,10741,10741,10741,10741,,10741,6,True
+Kerala,2020,426,,,426,426,426,426,,426,6,True
+Ladakh,2020,,,,1,1,1,1,,1,6,True
+Lakshadweep,2020,3,,,3,3,3,3,,3,6,True
+Madhya Pradesh,2020,699,,,699,699,699,699,,699,6,True
+Maharashtra,2020,5496,,,5496,5496,5496,5496,,5496,6,True
+Manipur,2020,79,,,79,79,79,79,,79,6,True
+Meghalaya,2020,142,,,142,142,142,142,,142,6,True
+Mizoram,2020,13,,,13,13,13,13,,13,6,True
+Nagaland,2020,8,,,8,8,8,8,,8,6,True
+Odisha,2020,1931,,,1931,1931,1931,1931,,1931,6,True
+Puducherry,2020,10,,,10,10,10,10,,10,6,True
+Punjab,2020,378,,,378,378,378,378,,378,6,True
+Rajasthan,2020,1354,,,1354,1354,1354,1354,,1354,6,True
+Sikkim,2020,0,,,0,0,0,0,,0,6,True
+TOTAL (ALL INDIA),2020,50035,,,50035,50035,50035,50035,,50035,6,True
+TOTAL STATE(S),2020,49708,,,49708,49708,49708,49708,,49708,6,True
+TOTAL UT(S),2020,327,,,327,327,327,327,,327,6,True
+Tamil Nadu,2020,782,,,782,782,782,782,,782,6,True
+Telangana,2020,5024,,,5024,5024,5024,5024,,5024,6,True
+Tripura,2020,34,,,34,34,34,34,,34,6,True
+Uttar Pradesh,2020,11097,,,11097,11097,11097,11097,,11097,6,True
+Uttarakhand,2020,243,,,243,243,243,243,,243,6,True
+West Bengal,2020,712,,,712,712,712,712,,712,6,True
+A&N Islands,2021,8,8,8,8,8,8,8,,8,8,True
+Andhra Pradesh,2021,1875,1875,1875,1875,1875,1875,1875,,1875,8,True
+Arunachal Pradesh,2021,47,47,47,47,47,47,47,,47,8,True
+Assam,2021,4846,4846,4846,4846,4846,4846,4846,,4846,8,True
+Bihar,2021,1413,1413,1413,1413,1413,1413,1413,,1413,8,True
+Chandigarh,2021,15,15,15,15,15,15,15,,15,8,True
+Chhattisgarh,2021,352,352,352,352,352,352,352,,352,8,True
+D&N Haveli and Daman & Diu,2021,5,5,5,5,5,5,5,,5,8,True
+Delhi,2021,356,356,356,356,356,356,356,,356,8,True
+Goa,2021,36,36,36,36,36,36,36,,36,8,True
+Gujarat,2021,1536,1536,1536,1536,1536,1536,1536,,1536,8,True
+Haryana,2021,622,622,622,622,622,622,622,,622,8,True
+Himachal Pradesh,2021,70,70,70,70,70,70,70,,70,8,True
+Jammu & Kashmir,2021,154,154,154,154,154,154,154,,154,8,True
+Jharkhand,2021,953,953,953,953,953,953,953,,953,8,True
+Karnataka,2021,8136,8136,8136,8136,8136,8136,8136,,8136,8,True
+Kerala,2021,626,626,626,626,626,626,626,,626,8,True
+Ladakh,2021,,5,5,5,5,5,5,,5,8,True
+Lakshadweep,2021,1,1,1,1,1,1,1,,1,8,True
+Madhya Pradesh,2021,589,589,589,589,589,589,589,,589,8,True
+Maharashtra,2021,5562,5562,5562,5562,5562,5562,5562,,5562,8,True
+Manipur,2021,67,67,67,67,67,67,67,,67,8,True
+Meghalaya,2021,107,107,107,107,107,107,107,,107,8,True
+Mizoram,2021,30,30,30,30,30,30,30,,30,8,True
+Nagaland,2021,8,8,8,8,8,8,8,,8,8,True
+Odisha,2021,2037,2037,2037,2037,2037,2037,2037,,2037,8,True
+Puducherry,2021,0,0,0,0,0,0,0,,0,8,True
+Punjab,2021,551,551,551,551,551,551,551,,551,8,True
+Rajasthan,2021,1504,1504,1504,1504,1504,1504,1504,,1504,8,True
+Sikkim,2021,0,0,0,0,0,0,0,,0,8,True
+TOTAL (ALL INDIA),2021,52974,52974,52974,52974,52974,52974,52974,,52974,8,True
+TOTAL STATE(S),2021,52430,52430,52430,52430,52430,52430,52430,,52430,8,True
+TOTAL UT(S),2021,544,544,544,544,544,544,544,,544,8,True
+Tamil Nadu,2021,1076,1076,1076,1076,1076,1076,1076,,1076,8,True
+Telangana,2021,10303,10303,10303,10303,10303,10303,10303,,10303,8,True
+Tripura,2021,24,24,24,24,24,24,24,,24,8,True
+Uttar Pradesh,2021,8829,8829,8829,8829,8829,8829,8829,,8829,8,True
+Uttarakhand,2021,718,718,718,718,718,718,718,,718,8,True
+West Bengal,2021,513,513,513,513,513,513,513,,513,8,True
+A&N Islands,2022,28,28,28,28,28,28,,,28,7,True
+Andhra Pradesh,2022,2341,2341,2341,2341,2341,2341,,,2341,7,True
+Arunachal Pradesh,2022,14,14,14,14,14,14,,,14,7,True
+Assam,2022,1733,1733,1733,1733,1733,1733,,,1733,7,True
+Bihar,2022,1621,1621,1621,1621,1621,1621,,,1621,7,True
+Chandigarh,2022,27,27,27,27,27,27,,,27,7,True
+Chhattisgarh,2022,439,439,439,439,439,439,,,439,7,True
+D&N Haveli and Daman & Diu,2022,5,5,5,5,5,5,,,5,7,True
+Delhi,2022,685,685,685,685,685,685,,,685,7,True
+Goa,2022,90,90,90,90,90,90,,,90,7,True
+Gujarat,2022,1417,1417,1417,1417,1417,1417,,,1417,7,True
+Haryana,2022,681,681,681,681,681,681,,,681,7,True
+Himachal Pradesh,2022,77,77,77,77,77,77,,,77,7,True
+Jammu & Kashmir,2022,173,173,173,173,173,173,,,173,7,True
+Jharkhand,2022,967,967,967,967,967,967,,,967,7,True
+Karnataka,2022,12556,12556,12556,12556,12556,12556,,,12556,7,True
+Kerala,2022,773,773,773,773,773,773,,,773,7,True
+Ladakh,2022,,3,3,3,3,3,,,3,7,True
+Lakshadweep,2022,1,1,1,1,1,1,,,1,7,True
+Madhya Pradesh,2022,826,826,826,826,826,826,,,826,7,True
+Maharashtra,2022,8249,8249,8249,8249,8249,8249,,,8249,7,True
+Manipur,2022,18,18,18,18,18,18,,,18,7,True
+Meghalaya,2022,75,75,75,75,75,75,,,75,7,True
+Mizoram,2022,1,1,1,1,1,1,,,1,7,True
+Nagaland,2022,4,4,4,4,4,4,,,4,7,True
+Odisha,2022,1983,1983,1983,1983,1983,1983,,,1983,7,True
+Puducherry,2022,64,64,64,64,64,64,,,64,7,True
+Punjab,2022,697,697,697,697,697,697,,,697,7,True
+Rajasthan,2022,1833,1833,1833,1833,1833,1833,,,1833,7,True
+Sikkim,2022,26,26,26,26,26,26,,,26,7,True
+TOTAL (ALL INDIA),2022,65893,65893,65893,65893,65893,65893,,,65893,7,True
+TOTAL STATE(S),2022,64907,64907,64907,64907,64907,64907,,,64907,7,True
+TOTAL UT(S),2022,986,986,986,986,986,986,,,986,7,True
+Tamil Nadu,2022,2082,2082,2082,2082,2082,2082,,,2082,7,True
+Telangana,2022,15297,15297,15297,15297,15297,15297,,,15297,7,True
+Tripura,2022,30,30,30,30,30,30,,,30,7,True
+Uttar Pradesh,2022,10117,10117,10117,10117,10117,10117,,,10117,7,True
+Uttarakhand,2022,559,559,559,559,559,559,,,559,7,True
+West Bengal,2022,401,401,401,401,401,401,,,401,7,True
+A&N Islands,2023,47,47,47,,,,,,,3,True
+Andhra Pradesh,2023,2341,2341,2341,,,,,,,3,True
+Arunachal Pradesh,2023,24,24,24,,,,,,,3,True
+Assam,2023,909,909,909,,,,,,,3,True
+Bihar,2023,4450,4450,4450,,,,,,,3,True
+Chandigarh,2023,23,23,23,,,,,,,3,True
+Chhattisgarh,2023,473,473,473,,,,,,,3,True
+D&N Haveli and Daman & Diu,2023,6,6,6,,,,,,,3,True
+Delhi,2023,407,407,407,,,,,,,3,True
+Goa,2023,86,86,86,,,,,,,3,True
+Gujarat,2023,1995,1995,1995,,,,,,,3,True
+Haryana,2023,751,751,751,,,,,,,3,True
+Himachal Pradesh,2023,127,127,127,,,,,,,3,True
+Jammu & Kashmir,2023,185,185,185,,,,,,,3,True
+Jharkhand,2023,1079,1079,1079,,,,,,,3,True
+Karnataka,2023,21889,21889,21889,,,,,,,3,True
+Kerala,2023,3295,3295,3295,,,,,,,3,True
+Ladakh,2023,,1,1,,,,,,,3,True
+Lakshadweep,2023,1,1,1,,,,,,,3,True
+Madhya Pradesh,2023,685,685,685,,,,,,,3,True
+Maharashtra,2023,8103,8103,8103,,,,,,,3,True
+Manipur,2023,3,3,3,,,,,,,3,True
+Meghalaya,2023,64,64,64,,,,,,,3,True
+Mizoram,2023,31,31,31,,,,,,,3,True
+Nagaland,2023,2,2,2,,,,,,,3,True
+Odisha,2023,2348,2348,2348,,,,,,,3,True
+Puducherry,2023,147,147,147,,,,,,,3,True
+Punjab,2023,511,511,511,,,,,,,3,True
+Rajasthan,2023,2435,2435,2435,,,,,,,3,True
+Sikkim,2023,12,12,12,,,,,,,3,True
+TOTAL (ALL INDIA),2023,86420,86420,86420,,,,,,,3,True
+TOTAL STATE(S),2023,85603,85603,85603,,,,,,,3,True
+TOTAL UT(S),2023,817,817,817,,,,,,,3,True
+Tamil Nadu,2023,4121,4121,4121,,,,,,,3,True
+Telangana,2023,18236,18236,18236,,,,,,,3,True
+Tripura,2023,36,36,36,,,,,,,3,True
+Uttar Pradesh,2023,10794,10794,10794,,,,,,,3,True
+Uttarakhand,2023,494,494,494,,,,,,,3,True
+West Bengal,2023,309,309,309,,,,,,,3,True

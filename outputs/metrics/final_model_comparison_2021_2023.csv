@@ -1,0 +1,5 @@
+model,test_year,rows_evaluated,MAE,RMSE,selection_decision
+Previous-year baseline,Overall 2021-2023,108,543.9907407407408,1437.9881940740322,Selected final model
+Random Forest Regression,Overall 2021-2023,108,622.4833280936858,1653.3213474172464,Rejected
+Ridge Regression,Overall 2021-2023,108,666.1990023820113,1542.5792607143562,Rejected
+Poisson Regression,Overall 2021-2023,108,852.1937102937742,2164.5179306861583,Rejected

@@ -1,0 +1,9 @@
+check,result,expected,passed
+row_count,216,216,True
+unique_state_ut_year,0,0 duplicates,True
+state_ut_count,36,36,True
+year_coverage,"2018,2019,2020,2021,2022,2023","2018,2019,2020,2021,2022,2023",True
+missing_population,0,0,True
+unresolved_case_values,2,"retain as missing, never zero-fill",True
+missing_rolling_avg_first_two_years_per_group,74,expected due to 3-year window and unresolved data,True
+raw_text_preserved,6,source text preserved where present,True

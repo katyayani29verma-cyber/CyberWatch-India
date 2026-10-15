@@ -1,0 +1,46 @@
+# source_id: S09
+# document: PIB-hosted document (static.pib.gov.in specificdocs, March 2025)
+# url: https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/mar/doc2025318522301.pdf
+# table: Annexure-II, "State/UT-wise Cases Registered (CR) under Fraud for Cyber Crimes during Year 2020-2022"
+# source_line: "Crime in India" published by NCRB
+# extraction: text layer via Claude WebFetch, 2026-10-08. Not visually verified.
+COLUMNS: SL|State/UT|2020|2021|2022
+1|Andhra Pradesh|764|952|984
+2|Arunachal Pradesh|3|2|0
+3|Assam|58|82|16
+4|Bihar|1294|1373|1441
+5|Chhattisgarh|71|67|42
+6|Goa|1|1|11
+7|Gujarat|205|208|108
+8|Haryana|36|52|44
+9|Himachal Pradesh|1|6|9
+10|Jharkhand|83|79|98
+11|Karnataka|0|6|0
+12|Kerala|6|16|26
+13|Madhya Pradesh|69|89|180
+14|Maharashtra|2032|1678|2202
+15|Manipur|0|0|0
+16|Meghalaya|10|0|0
+17|Mizoram|0|0|0
+18|Nagaland|0|0|0
+19|Odisha|1079|1205|957
+20|Punjab|16|29|61
+21|Rajasthan|332|371|292
+22|Sikkim|0|0|0
+23|Tamil Nadu|5|107|251
+24|Telangana|3316|7003|9581
+25|Tripura|0|0|0
+26|Uttar Pradesh|837|614|766
+27|Uttarakhand|1|0|31
+28|West Bengal|145|40|30
+|TOTAL STATE(S)|10364|13980|17130
+29|A&N Islands|0|0|0
+30|Chandigarh|0|0|2
+31|D&N Haveli and Daman & Diu|0|0|0
+32|Delhi|31|19|331
+33|Jammu & Kashmir|0|8|7
+34|Ladakh|0|0|0
+35|Lakshadweep|0|0|0
+36|Puducherry|0|0|0
+|TOTAL UT(S)|31|27|340
+|TOTAL (ALL INDIA)|10395|14007|17470

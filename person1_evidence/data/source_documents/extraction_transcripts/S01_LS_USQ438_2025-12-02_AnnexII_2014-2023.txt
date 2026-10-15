@@ -1,0 +1,48 @@
+# source_id: S01
+# document: Lok Sabha Unstarred Question No. 438, answered 02.12.2025, Ministry of Home Affairs, "RISE IN CYBERCRIME CASES"
+# url: https://www.mha.gov.in/MHA1/Par2017/pdfs/par2025-pdfs/LS02122025/438.pdf
+# table: Annexure-II, "State/UT-wise Cases Registered under Cyber Crimes during 2014-2023" (annexure pages carry header "L.S. US.Q. NO. 438 FOR 02.12.2025"; no printed page number)
+# source_line: Source: 'Crime in India' published by NCRB.
+# footnotes: none printed
+# extraction: text layer read via Claude WebFetch on 2026-10-08 (PDF not downloadable from workspace: host blocked). Not visually verified.
+# known_issue: Ladakh row prints only four values (1, 5, 3, 1) with no clear year alignment -> cells left blank here; see extraction_log.md
+COLUMNS: SL|State/UT|2014|2015|2016|2017|2018|2019|2020|2021|2022|2023
+1|Andhra Pradesh|282|536|616|931|1207|1886|1899|1875|2341|2341
+2|Arunachal Pradesh|18|6|4|1|7|8|30|47|14|24
+3|Assam|379|483|696|1120|2022|2231|3530|4846|1733|909
+4|Bihar|114|242|309|433|374|1050|1512|1413|1621|4450
+5|Chhattisgarh|123|103|90|171|139|175|297|352|439|473
+6|Goa|62|17|31|13|29|15|40|36|90|86
+7|Gujarat|227|242|362|458|702|784|1283|1536|1417|1995
+8|Haryana|151|224|401|504|418|564|656|622|681|751
+9|Himachal Pradesh|38|50|31|56|69|76|98|70|77|127
+10|Jharkhand|93|180|259|720|930|1095|1204|953|967|1079
+11|Karnataka|1020|1447|1101|3174|5839|12020|10741|8136|12556|21889
+12|Kerala|450|290|283|320|340|307|426|626|773|3295
+13|Madhya Pradesh|289|231|258|490|740|602|699|589|826|685
+14|Maharashtra|1879|2195|2380|3604|3511|4967|5496|5562|8249|8103
+15|Manipur|13|6|11|74|29|4|79|67|18|3
+16|Meghalaya|60|56|39|39|74|89|142|107|75|64
+17|Mizoram|22|8|1|10|6|8|13|30|1|31
+18|Nagaland|0|0|2|0|2|2|8|8|4|2
+19|Odisha|124|386|317|824|843|1485|1931|2037|1983|2348
+20|Punjab|226|149|102|176|239|243|378|551|697|511
+21|Rajasthan|697|949|941|1304|1104|1762|1354|1504|1833|2435
+22|Sikkim|4|1|1|1|1|2|0|0|26|12
+23|Tamil Nadu|172|142|144|228|295|385|782|1076|2082|4121
+24|Telangana|703|687|593|1209|1205|2691|5024|10303|15297|18236
+25|Tripura|5|13|8|7|20|20|34|24|30|36
+26|Uttar Pradesh|1737|2208|2639|4971|6280|11416|11097|8829|10117|10794
+27|Uttarakhand|42|48|62|124|171|100|243|718|559|494
+28|West Bengal|355|398|478|568|335|524|712|513|401|309
+|TOTAL STATE(S)|9285|11297|12159|21530|26931|44511|49708|52430|64907|85603
+29|A&N Islands|13|6|3|3|7|2|5|8|28|47
+30|Chandigarh|55|77|26|32|30|23|17|15|27|23
+31|D&N Haveli and Daman & Diu|4|1|1|1|0|3|3|5|5|6
+32|Delhi|226|177|98|162|189|115|168|356|685|407
+33|Jammu & Kashmir|37|34|28|63|73|73|120|154|173|185
+34|Ladakh||||||||||
+35|Lakshadweep|1|0|0|0|4|4|3|1|1|1
+36|Puducherry|1|0|2|5|14|4|10|0|64|147
+|TOTAL UT(S)|337|295|158|266|317|224|327|544|986|817
+|TOTAL (ALL INDIA)|9622|11592|12317|21796|27248|44735|50035|52974|65893|86420

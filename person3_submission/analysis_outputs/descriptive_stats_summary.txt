@@ -1,0 +1,31 @@
+=== MEDIANS ===
+year                                 2.020500e+03
+reported_cases_raw                   3.375000e+02
+raw_value_text                       3.375000e+02
+reported_cases                       3.080000e+02
+population_persons                   2.504550e+07
+crime_rate_per_100k                  1.784554e+00
+previous_year_cases                  2.970000e+02
+previous_year_crime_rate_per_100k    1.610030e+00
+absolute_change                      1.400000e+01
+annual_growth_pct                    1.458829e+01
+rolling_3yr_avg_cases                3.968333e+02
+national_total_cases                 5.150450e+04
+national_share_pct                   6.010734e-01
+dtype: float64
+
+=== INTERQUARTILE RANGE (IQR) ===
+year                                 3.000000e+00
+reported_cases_raw                   1.308000e+03
+raw_value_text                       1.308000e+03
+reported_cases                       1.239500e+03
+population_persons                   5.477475e+07
+crime_rate_per_100k                  2.525793e+00
+previous_year_cases                  1.182000e+03
+previous_year_crime_rate_per_100k    2.441517e+00
+absolute_change                      1.780000e+02
+annual_growth_pct                    6.843137e+01
+rolling_3yr_avg_cases                1.416333e+03
+national_total_cases                 2.115800e+04
+national_share_pct                   2.653369e+00
+dtype: float64

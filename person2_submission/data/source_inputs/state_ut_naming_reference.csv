@@ -1,0 +1,430 @@
+source_id,source_table_key,state_ut_original,footnote_marker_in_source,name_without_marker,suggested_standard_name,entity_type_current,years_in_source,harmonisation_note
+S01,S01,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2014-2023,
+S01,S01,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2014-2023,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S01,S01,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2014-2023,
+S01,S01,Assam,,Assam,Assam,state,2014-2023,
+S01,S01,Bihar,,Bihar,Bihar,state,2014-2023,
+S01,S01,Chandigarh,,Chandigarh,Chandigarh,union_territory,2014-2023,
+S01,S01,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2014-2023,
+S01,S01,D&N Haveli and Daman & Diu,,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2014-2023,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S01,S01,Delhi,,Delhi,Delhi,union_territory,2014-2023,National Capital Territory of Delhi; counted in UT block by NCRB.
+S01,S01,Goa,,Goa,Goa,state,2014-2023,
+S01,S01,Gujarat,,Gujarat,Gujarat,state,2014-2023,
+S01,S01,Haryana,,Haryana,Haryana,state,2014-2023,
+S01,S01,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2014-2023,
+S01,S01,Jammu & Kashmir,,Jammu & Kashmir,Jammu and Kashmir,union_territory,2014-2023,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S01,S01,Jharkhand,,Jharkhand,Jharkhand,state,2014-2023,
+S01,S01,Karnataka,,Karnataka,Karnataka,state,2014-2023,
+S01,S01,Kerala,,Kerala,Kerala,state,2014-2023,
+S01,S01,Ladakh,,Ladakh,Ladakh,union_territory,2014-2023,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S01,S01,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2014-2023,
+S01,S01,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2014-2023,
+S01,S01,Maharashtra,,Maharashtra,Maharashtra,state,2014-2023,
+S01,S01,Manipur,,Manipur,Manipur,state,2014-2023,
+S01,S01,Meghalaya,,Meghalaya,Meghalaya,state,2014-2023,
+S01,S01,Mizoram,,Mizoram,Mizoram,state,2014-2023,
+S01,S01,Nagaland,,Nagaland,Nagaland,state,2014-2023,S06 marks '#': clarifications pending for 2022.
+S01,S01,Odisha,,Odisha,Odisha,state,2014-2023,
+S01,S01,Puducherry,,Puducherry,Puducherry,union_territory,2014-2023,
+S01,S01,Punjab,,Punjab,Punjab,state,2014-2023,
+S01,S01,Rajasthan,,Rajasthan,Rajasthan,state,2014-2023,
+S01,S01,Sikkim,,Sikkim,Sikkim,state,2014-2023,
+S01,S01,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2014-2023,"Aggregate row, not an entity."
+S01,S01,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2014-2023,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S01,S01,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2014-2023,"Aggregate row, not an entity."
+S01,S01,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2014-2023,
+S01,S01,Telangana,,Telangana,Telangana,state,2014-2023,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S01,S01,Tripura,,Tripura,Tripura,state,2014-2023,
+S01,S01,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2014-2023,
+S01,S01,Uttarakhand,,Uttarakhand,Uttarakhand,state,2014-2023,
+S01,S01,West Bengal,,West Bengal,West Bengal,state,2014-2023,
+S02,S02,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2021-2023,
+S02,S02,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2021-2023,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S02,S02,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2021-2023,
+S02,S02,Assam,,Assam,Assam,state,2021-2023,
+S02,S02,Bihar,,Bihar,Bihar,state,2021-2023,
+S02,S02,Chandigarh,,Chandigarh,Chandigarh,union_territory,2021-2023,
+S02,S02,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2021-2023,
+S02,S02,D&N Haveli and Daman & Diu,,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2021-2023,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S02,S02,Delhi,,Delhi,Delhi,union_territory,2021-2023,National Capital Territory of Delhi; counted in UT block by NCRB.
+S02,S02,Goa,,Goa,Goa,state,2021-2023,
+S02,S02,Gujarat,,Gujarat,Gujarat,state,2021-2023,
+S02,S02,Haryana,,Haryana,Haryana,state,2021-2023,
+S02,S02,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2021-2023,
+S02,S02,Jammu & Kashmir,,Jammu & Kashmir,Jammu and Kashmir,union_territory,2021-2023,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S02,S02,Jharkhand,,Jharkhand,Jharkhand,state,2021-2023,
+S02,S02,Karnataka,,Karnataka,Karnataka,state,2021-2023,
+S02,S02,Kerala,,Kerala,Kerala,state,2021-2023,
+S02,S02,Ladakh,,Ladakh,Ladakh,union_territory,2021-2023,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S02,S02,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2021-2023,
+S02,S02,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2021-2023,
+S02,S02,Maharashtra,,Maharashtra,Maharashtra,state,2021-2023,
+S02,S02,Manipur,,Manipur,Manipur,state,2021-2023,
+S02,S02,Meghalaya,,Meghalaya,Meghalaya,state,2021-2023,
+S02,S02,Mizoram,,Mizoram,Mizoram,state,2021-2023,
+S02,S02,Nagaland,,Nagaland,Nagaland,state,2021-2023,S06 marks '#': clarifications pending for 2022.
+S02,S02,Odisha,,Odisha,Odisha,state,2021-2023,
+S02,S02,Puducherry,,Puducherry,Puducherry,union_territory,2021-2023,
+S02,S02,Punjab,,Punjab,Punjab,state,2021-2023,
+S02,S02,Rajasthan,,Rajasthan,Rajasthan,state,2021-2023,
+S02,S02,Sikkim,,Sikkim,Sikkim,state,2021-2023,
+S02,S02,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2021-2023,"Aggregate row, not an entity."
+S02,S02,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2021-2023,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S02,S02,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2021-2023,"Aggregate row, not an entity."
+S02,S02,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2021-2023,
+S02,S02,Telangana,,Telangana,Telangana,state,2021-2023,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S02,S02,Tripura,,Tripura,Tripura,state,2021-2023,
+S02,S02,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2021-2023,
+S02,S02,Uttarakhand,,Uttarakhand,Uttarakhand,state,2021-2023,
+S02,S02,West Bengal,,West Bengal,West Bengal,state,2021-2023,
+S03,S03,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2021-2023,
+S03,S03,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2021-2023,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S03,S03,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2021-2023,
+S03,S03,Assam,,Assam,Assam,state,2021-2023,
+S03,S03,Bihar,,Bihar,Bihar,state,2021-2023,
+S03,S03,Chandigarh,,Chandigarh,Chandigarh,union_territory,2021-2023,
+S03,S03,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2021-2023,
+S03,S03,D&N Haveli and Daman & Diu,,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2021-2023,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S03,S03,Delhi,,Delhi,Delhi,union_territory,2021-2023,National Capital Territory of Delhi; counted in UT block by NCRB.
+S03,S03,Goa,,Goa,Goa,state,2021-2023,
+S03,S03,Gujarat,,Gujarat,Gujarat,state,2021-2023,
+S03,S03,Haryana,,Haryana,Haryana,state,2021-2023,
+S03,S03,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2021-2023,
+S03,S03,Jammu & Kashmir,,Jammu & Kashmir,Jammu and Kashmir,union_territory,2021-2023,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S03,S03,Jharkhand,,Jharkhand,Jharkhand,state,2021-2023,
+S03,S03,Karnataka,,Karnataka,Karnataka,state,2021-2023,
+S03,S03,Kerala,,Kerala,Kerala,state,2021-2023,
+S03,S03,Ladakh,,Ladakh,Ladakh,union_territory,2021-2023,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S03,S03,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2021-2023,
+S03,S03,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2021-2023,
+S03,S03,Maharashtra,,Maharashtra,Maharashtra,state,2021-2023,
+S03,S03,Manipur,,Manipur,Manipur,state,2021-2023,
+S03,S03,Meghalaya,,Meghalaya,Meghalaya,state,2021-2023,
+S03,S03,Mizoram,,Mizoram,Mizoram,state,2021-2023,
+S03,S03,Nagaland,,Nagaland,Nagaland,state,2021-2023,S06 marks '#': clarifications pending for 2022.
+S03,S03,Odisha,,Odisha,Odisha,state,2021-2023,
+S03,S03,Puducherry,,Puducherry,Puducherry,union_territory,2021-2023,
+S03,S03,Punjab,,Punjab,Punjab,state,2021-2023,
+S03,S03,Rajasthan,,Rajasthan,Rajasthan,state,2021-2023,
+S03,S03,Sikkim,,Sikkim,Sikkim,state,2021-2023,
+S03,S03,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2021-2023,"Aggregate row, not an entity."
+S03,S03,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2021-2023,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S03,S03,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2021-2023,"Aggregate row, not an entity."
+S03,S03,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2021-2023,
+S03,S03,Telangana,,Telangana,Telangana,state,2021-2023,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S03,S03,Tripura,,Tripura,Tripura,state,2021-2023,
+S03,S03,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2021-2023,
+S03,S03,Uttarakhand,,Uttarakhand,Uttarakhand,state,2021-2023,
+S03,S03,West Bengal,,West Bengal,West Bengal,state,2021-2023,
+S04,S04,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2018-2022,
+S04,S04,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2018-2022,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S04,S04,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2018-2022,
+S04,S04,Assam,,Assam,Assam,state,2018-2022,
+S04,S04,Bihar,,Bihar,Bihar,state,2018-2022,
+S04,S04,Chandigarh,,Chandigarh,Chandigarh,union_territory,2018-2022,
+S04,S04,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2018-2022,
+S04,S04,D&N Haveli and Daman & Diu+,+,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2018-2022,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S04,S04,Delhi,,Delhi,Delhi,union_territory,2018-2022,National Capital Territory of Delhi; counted in UT block by NCRB.
+S04,S04,Goa,,Goa,Goa,state,2018-2022,
+S04,S04,Gujarat,,Gujarat,Gujarat,state,2018-2022,
+S04,S04,Haryana,,Haryana,Haryana,state,2018-2022,
+S04,S04,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2018-2022,
+S04,S04,Jammu & Kashmir *,*,Jammu & Kashmir,Jammu and Kashmir,union_territory,2018-2022,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S04,S04,Jharkhand,,Jharkhand,Jharkhand,state,2018-2022,
+S04,S04,Karnataka,,Karnataka,Karnataka,state,2018-2022,
+S04,S04,Kerala,,Kerala,Kerala,state,2018-2022,
+S04,S04,Ladakh,,Ladakh,Ladakh,union_territory,2018-2022,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S04,S04,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2018-2022,
+S04,S04,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2018-2022,
+S04,S04,Maharashtra,,Maharashtra,Maharashtra,state,2018-2022,
+S04,S04,Manipur,,Manipur,Manipur,state,2018-2022,
+S04,S04,Meghalaya,,Meghalaya,Meghalaya,state,2018-2022,
+S04,S04,Mizoram,,Mizoram,Mizoram,state,2018-2022,
+S04,S04,Nagaland,,Nagaland,Nagaland,state,2018-2022,S06 marks '#': clarifications pending for 2022.
+S04,S04,Odisha,,Odisha,Odisha,state,2018-2022,
+S04,S04,Puducherry,,Puducherry,Puducherry,union_territory,2018-2022,
+S04,S04,Punjab,,Punjab,Punjab,state,2018-2022,
+S04,S04,Rajasthan,,Rajasthan,Rajasthan,state,2018-2022,
+S04,S04,Sikkim,,Sikkim,Sikkim,state,2018-2022,
+S04,S04,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2018-2022,"Aggregate row, not an entity."
+S04,S04,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2018-2022,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S04,S04,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2018-2022,"Aggregate row, not an entity."
+S04,S04,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2018-2022,
+S04,S04,Telangana,,Telangana,Telangana,state,2018-2022,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S04,S04,Tripura,,Tripura,Tripura,state,2018-2022,
+S04,S04,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2018-2022,
+S04,S04,Uttarakhand,,Uttarakhand,Uttarakhand,state,2018-2022,
+S04,S04,West Bengal,,West Bengal,West Bengal,state,2018-2022,
+S05,S05a,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2018-2022,
+S05,S05a,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2018-2022,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S05,S05a,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2018-2022,
+S05,S05a,Assam,,Assam,Assam,state,2018-2022,
+S05,S05a,Bihar,,Bihar,Bihar,state,2018-2022,
+S05,S05a,Chandigarh,,Chandigarh,Chandigarh,union_territory,2018-2022,
+S05,S05a,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2018-2022,
+S05,S05a,D&N Haveli and Daman & Diu+,+,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2018-2022,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S05,S05a,Delhi,,Delhi,Delhi,union_territory,2018-2022,National Capital Territory of Delhi; counted in UT block by NCRB.
+S05,S05a,Goa,,Goa,Goa,state,2018-2022,
+S05,S05a,Gujarat,,Gujarat,Gujarat,state,2018-2022,
+S05,S05a,Haryana,,Haryana,Haryana,state,2018-2022,
+S05,S05a,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2018-2022,
+S05,S05a,Jammu & Kashmir *,*,Jammu & Kashmir,Jammu and Kashmir,union_territory,2018-2022,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S05,S05a,Jharkhand,,Jharkhand,Jharkhand,state,2018-2022,
+S05,S05a,Karnataka,,Karnataka,Karnataka,state,2018-2022,
+S05,S05a,Kerala,,Kerala,Kerala,state,2018-2022,
+S05,S05a,Ladakh,,Ladakh,Ladakh,union_territory,2018-2022,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S05,S05a,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2018-2022,
+S05,S05a,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2018-2022,
+S05,S05a,Maharashtra,,Maharashtra,Maharashtra,state,2018-2022,
+S05,S05a,Manipur,,Manipur,Manipur,state,2018-2022,
+S05,S05a,Meghalaya,,Meghalaya,Meghalaya,state,2018-2022,
+S05,S05a,Mizoram,,Mizoram,Mizoram,state,2018-2022,
+S05,S05a,Nagaland,,Nagaland,Nagaland,state,2018-2022,S06 marks '#': clarifications pending for 2022.
+S05,S05a,Odisha,,Odisha,Odisha,state,2018-2022,
+S05,S05a,Puducherry,,Puducherry,Puducherry,union_territory,2018-2022,
+S05,S05a,Punjab,,Punjab,Punjab,state,2018-2022,
+S05,S05a,Rajasthan,,Rajasthan,Rajasthan,state,2018-2022,
+S05,S05a,Sikkim,,Sikkim,Sikkim,state,2018-2022,
+S05,S05a,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2018-2022,"Aggregate row, not an entity."
+S05,S05a,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2018-2022,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S05,S05a,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2018-2022,"Aggregate row, not an entity."
+S05,S05a,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2018-2022,
+S05,S05a,Telangana,,Telangana,Telangana,state,2018-2022,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S05,S05a,Tripura,,Tripura,Tripura,state,2018-2022,
+S05,S05a,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2018-2022,
+S05,S05a,Uttarakhand,,Uttarakhand,Uttarakhand,state,2018-2022,
+S05,S05a,West Bengal,,West Bengal,West Bengal,state,2018-2022,
+S05,S05b,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2018-2022,
+S05,S05b,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2018-2022,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S05,S05b,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2018-2022,
+S05,S05b,Assam,,Assam,Assam,state,2018-2022,
+S05,S05b,Bihar,,Bihar,Bihar,state,2018-2022,
+S05,S05b,Chandigarh,,Chandigarh,Chandigarh,union_territory,2018-2022,
+S05,S05b,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2018-2022,
+S05,S05b,D&N Haveli and Daman & Diu+,+,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2018-2022,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S05,S05b,Delhi,,Delhi,Delhi,union_territory,2018-2022,National Capital Territory of Delhi; counted in UT block by NCRB.
+S05,S05b,Goa,,Goa,Goa,state,2018-2022,
+S05,S05b,Gujarat,,Gujarat,Gujarat,state,2018-2022,
+S05,S05b,Haryana,,Haryana,Haryana,state,2018-2022,
+S05,S05b,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2018-2022,
+S05,S05b,Jammu & Kashmir*,*,Jammu & Kashmir,Jammu and Kashmir,union_territory,2018-2022,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S05,S05b,Jharkhand,,Jharkhand,Jharkhand,state,2018-2022,
+S05,S05b,Karnataka,,Karnataka,Karnataka,state,2018-2022,
+S05,S05b,Kerala,,Kerala,Kerala,state,2018-2022,
+S05,S05b,Ladakh,,Ladakh,Ladakh,union_territory,2018-2022,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S05,S05b,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2018-2022,
+S05,S05b,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2018-2022,
+S05,S05b,Maharashtra,,Maharashtra,Maharashtra,state,2018-2022,
+S05,S05b,Manipur,,Manipur,Manipur,state,2018-2022,
+S05,S05b,Meghalaya,,Meghalaya,Meghalaya,state,2018-2022,
+S05,S05b,Mizoram,,Mizoram,Mizoram,state,2018-2022,
+S05,S05b,Nagaland,,Nagaland,Nagaland,state,2018-2022,S06 marks '#': clarifications pending for 2022.
+S05,S05b,Odisha,,Odisha,Odisha,state,2018-2022,
+S05,S05b,Puducherry,,Puducherry,Puducherry,union_territory,2018-2022,
+S05,S05b,Punjab,,Punjab,Punjab,state,2018-2022,
+S05,S05b,Rajasthan,,Rajasthan,Rajasthan,state,2018-2022,
+S05,S05b,Sikkim,,Sikkim,Sikkim,state,2018-2022,
+S05,S05b,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2018-2022,"Aggregate row, not an entity."
+S05,S05b,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2018-2022,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S05,S05b,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2018-2022,"Aggregate row, not an entity."
+S05,S05b,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2018-2022,
+S05,S05b,Telangana,,Telangana,Telangana,state,2018-2022,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S05,S05b,Tripura,,Tripura,Tripura,state,2018-2022,
+S05,S05b,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2018-2022,
+S05,S05b,Uttarakhand,,Uttarakhand,Uttarakhand,state,2018-2022,
+S05,S05b,West Bengal,,West Bengal,West Bengal,state,2018-2022,
+S06,S06,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2020-2022,
+S06,S06,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2020-2022,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S06,S06,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2020-2022,
+S06,S06,Assam,,Assam,Assam,state,2020-2022,
+S06,S06,Bihar,,Bihar,Bihar,state,2020-2022,
+S06,S06,Chandigarh,,Chandigarh,Chandigarh,union_territory,2020-2022,
+S06,S06,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2020-2022,
+S06,S06,D&N Haveli and Daman & Diu,,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2020-2022,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S06,S06,Delhi,,Delhi,Delhi,union_territory,2020-2022,National Capital Territory of Delhi; counted in UT block by NCRB.
+S06,S06,Goa,,Goa,Goa,state,2020-2022,
+S06,S06,Gujarat,,Gujarat,Gujarat,state,2020-2022,
+S06,S06,Haryana,,Haryana,Haryana,state,2020-2022,
+S06,S06,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2020-2022,
+S06,S06,Jammu & Kashmir,,Jammu & Kashmir,Jammu and Kashmir,union_territory,2020-2022,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S06,S06,Jharkhand,,Jharkhand,Jharkhand,state,2020-2022,
+S06,S06,Karnataka,,Karnataka,Karnataka,state,2020-2022,
+S06,S06,Kerala,,Kerala,Kerala,state,2020-2022,
+S06,S06,Ladakh,,Ladakh,Ladakh,union_territory,2020-2022,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S06,S06,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2020-2022,
+S06,S06,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2020-2022,
+S06,S06,Maharashtra,,Maharashtra,Maharashtra,state,2020-2022,
+S06,S06,Manipur,,Manipur,Manipur,state,2020-2022,
+S06,S06,Meghalaya,,Meghalaya,Meghalaya,state,2020-2022,
+S06,S06,Mizoram,,Mizoram,Mizoram,state,2020-2022,
+S06,S06,Nagaland #,#,Nagaland,Nagaland,state,2020-2022,S06 marks '#': clarifications pending for 2022.
+S06,S06,Odisha,,Odisha,Odisha,state,2020-2022,
+S06,S06,Puducherry,,Puducherry,Puducherry,union_territory,2020-2022,
+S06,S06,Punjab,,Punjab,Punjab,state,2020-2022,
+S06,S06,Rajasthan,,Rajasthan,Rajasthan,state,2020-2022,
+S06,S06,Sikkim,,Sikkim,Sikkim,state,2020-2022,
+S06,S06,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2020-2022,"Aggregate row, not an entity."
+S06,S06,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2020-2022,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S06,S06,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2020-2022,"Aggregate row, not an entity."
+S06,S06,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2020-2022,
+S06,S06,Telangana,,Telangana,Telangana,state,2020-2022,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S06,S06,Tripura,,Tripura,Tripura,state,2020-2022,
+S06,S06,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2020-2022,
+S06,S06,Uttarakhand,,Uttarakhand,Uttarakhand,state,2020-2022,
+S06,S06,West Bengal,,West Bengal,West Bengal,state,2020-2022,
+S07,S07,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2019-2021,
+S07,S07,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2019-2021,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S07,S07,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2019-2021,
+S07,S07,Assam,,Assam,Assam,state,2019-2021,
+S07,S07,Bihar,,Bihar,Bihar,state,2019-2021,
+S07,S07,Chandigarh,,Chandigarh,Chandigarh,union_territory,2019-2021,
+S07,S07,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2019-2021,
+S07,S07,D&N Haveli and Daman & Diu,,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2019-2021,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S07,S07,Delhi,,Delhi,Delhi,union_territory,2019-2021,National Capital Territory of Delhi; counted in UT block by NCRB.
+S07,S07,Goa,,Goa,Goa,state,2019-2021,
+S07,S07,Gujarat,,Gujarat,Gujarat,state,2019-2021,
+S07,S07,Haryana,,Haryana,Haryana,state,2019-2021,
+S07,S07,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2019-2021,
+S07,S07,Jammu & Kashmir,,Jammu & Kashmir,Jammu and Kashmir,union_territory,2019-2021,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S07,S07,Jharkhand,,Jharkhand,Jharkhand,state,2019-2021,
+S07,S07,Karnataka,,Karnataka,Karnataka,state,2019-2021,
+S07,S07,Kerala,,Kerala,Kerala,state,2019-2021,
+S07,S07,Ladakh,,Ladakh,Ladakh,union_territory,2019-2021,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S07,S07,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2019-2021,
+S07,S07,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2019-2021,
+S07,S07,Maharashtra,,Maharashtra,Maharashtra,state,2019-2021,
+S07,S07,Manipur,,Manipur,Manipur,state,2019-2021,
+S07,S07,Meghalaya,,Meghalaya,Meghalaya,state,2019-2021,
+S07,S07,Mizoram,,Mizoram,Mizoram,state,2019-2021,
+S07,S07,Nagaland,,Nagaland,Nagaland,state,2019-2021,S06 marks '#': clarifications pending for 2022.
+S07,S07,Odisha,,Odisha,Odisha,state,2019-2021,
+S07,S07,Puducherry,,Puducherry,Puducherry,union_territory,2019-2021,
+S07,S07,Punjab,,Punjab,Punjab,state,2019-2021,
+S07,S07,Rajasthan,,Rajasthan,Rajasthan,state,2019-2021,
+S07,S07,Sikkim,,Sikkim,Sikkim,state,2019-2021,
+S07,S07,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2019-2021,"Aggregate row, not an entity."
+S07,S07,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2019-2021,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S07,S07,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2019-2021,"Aggregate row, not an entity."
+S07,S07,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2019-2021,
+S07,S07,Telangana,,Telangana,Telangana,state,2019-2021,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S07,S07,Tripura,,Tripura,Tripura,state,2019-2021,
+S07,S07,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2019-2021,
+S07,S07,Uttarakhand,,Uttarakhand,Uttarakhand,state,2019-2021,
+S07,S07,West Bengal,,West Bengal,West Bengal,state,2019-2021,
+S08,S08,A & N Islands,,A & N Islands,Andaman and Nicobar Islands,union_territory,2014-2016,
+S08,S08,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2014-2016,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S08,S08,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2014-2016,
+S08,S08,Assam,,Assam,Assam,state,2014-2016,
+S08,S08,Bihar,,Bihar,Bihar,state,2014-2016,
+S08,S08,Chandigarh,,Chandigarh,Chandigarh,union_territory,2014-2016,
+S08,S08,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2014-2016,
+S08,S08,D&N Haveli,,D&N Haveli,Dadra and Nagar Haveli (erstwhile UT),union_territory,2014-2016,Erstwhile UT (merged 26.01.2020). Sum with Daman & Diu to match the merged UT.
+S08,S08,Daman & Diu,,Daman & Diu,Daman and Diu (erstwhile UT),union_territory,2014-2016,Erstwhile UT (merged 26.01.2020). Sum with D&N Haveli to match the merged UT.
+S08,S08,Delhi UT,,Delhi UT,Delhi,union_territory,2014-2016,Printed 'Delhi UT' in older source; same entity as 'Delhi' (NCT of Delhi).
+S08,S08,Goa,,Goa,Goa,state,2014-2016,
+S08,S08,Gujarat,,Gujarat,Gujarat,state,2014-2016,
+S08,S08,Haryana,,Haryana,Haryana,state,2014-2016,
+S08,S08,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2014-2016,
+S08,S08,Jammu & Kashmir,,Jammu & Kashmir,Jammu and Kashmir,union_territory,2014-2016,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S08,S08,Jharkhand,,Jharkhand,Jharkhand,state,2014-2016,
+S08,S08,Karnataka,,Karnataka,Karnataka,state,2014-2016,
+S08,S08,Kerala,,Kerala,Kerala,state,2014-2016,
+S08,S08,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2014-2016,
+S08,S08,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2014-2016,
+S08,S08,Maharashtra,,Maharashtra,Maharashtra,state,2014-2016,
+S08,S08,Manipur,,Manipur,Manipur,state,2014-2016,
+S08,S08,Meghalaya,,Meghalaya,Meghalaya,state,2014-2016,
+S08,S08,Mizoram,,Mizoram,Mizoram,state,2014-2016,
+S08,S08,Nagaland,,Nagaland,Nagaland,state,2014-2016,S06 marks '#': clarifications pending for 2022.
+S08,S08,Odisha,,Odisha,Odisha,state,2014-2016,
+S08,S08,Puducherry,,Puducherry,Puducherry,union_territory,2014-2016,
+S08,S08,Punjab,,Punjab,Punjab,state,2014-2016,
+S08,S08,Rajasthan,,Rajasthan,Rajasthan,state,2014-2016,
+S08,S08,Sikkim,,Sikkim,Sikkim,state,2014-2016,
+S08,S08,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2014-2016,"Aggregate row, not an entity."
+S08,S08,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2014-2016,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S08,S08,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2014-2016,"Aggregate row, not an entity."
+S08,S08,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2014-2016,
+S08,S08,Telangana,,Telangana,Telangana,state,2014-2016,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S08,S08,Tripura,,Tripura,Tripura,state,2014-2016,
+S08,S08,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2014-2016,
+S08,S08,Uttarakhand,,Uttarakhand,Uttarakhand,state,2014-2016,
+S08,S08,West Bengal,,West Bengal,West Bengal,state,2014-2016,
+S09,S09a,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2020-2022,
+S09,S09a,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2020-2022,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S09,S09a,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2020-2022,
+S09,S09a,Assam,,Assam,Assam,state,2020-2022,
+S09,S09a,Bihar,,Bihar,Bihar,state,2020-2022,
+S09,S09a,Chandigarh,,Chandigarh,Chandigarh,union_territory,2020-2022,
+S09,S09a,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2020-2022,
+S09,S09a,D&N Haveli and Daman & Diu,,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2020-2022,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S09,S09a,Delhi,,Delhi,Delhi,union_territory,2020-2022,National Capital Territory of Delhi; counted in UT block by NCRB.
+S09,S09a,Goa,,Goa,Goa,state,2020-2022,
+S09,S09a,Gujarat,,Gujarat,Gujarat,state,2020-2022,
+S09,S09a,Haryana,,Haryana,Haryana,state,2020-2022,
+S09,S09a,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2020-2022,
+S09,S09a,Jammu & Kashmir,,Jammu & Kashmir,Jammu and Kashmir,union_territory,2020-2022,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S09,S09a,Jharkhand,,Jharkhand,Jharkhand,state,2020-2022,
+S09,S09a,Karnataka,,Karnataka,Karnataka,state,2020-2022,
+S09,S09a,Kerala,,Kerala,Kerala,state,2020-2022,
+S09,S09a,Ladakh,,Ladakh,Ladakh,union_territory,2020-2022,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S09,S09a,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2020-2022,
+S09,S09a,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2020-2022,
+S09,S09a,Maharashtra,,Maharashtra,Maharashtra,state,2020-2022,
+S09,S09a,Manipur,,Manipur,Manipur,state,2020-2022,
+S09,S09a,Meghalaya,,Meghalaya,Meghalaya,state,2020-2022,
+S09,S09a,Mizoram,,Mizoram,Mizoram,state,2020-2022,
+S09,S09a,Nagaland,,Nagaland,Nagaland,state,2020-2022,S06 marks '#': clarifications pending for 2022.
+S09,S09a,Odisha,,Odisha,Odisha,state,2020-2022,
+S09,S09a,Puducherry,,Puducherry,Puducherry,union_territory,2020-2022,
+S09,S09a,Punjab,,Punjab,Punjab,state,2020-2022,
+S09,S09a,Rajasthan,,Rajasthan,Rajasthan,state,2020-2022,
+S09,S09a,Sikkim,,Sikkim,Sikkim,state,2020-2022,
+S09,S09a,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2020-2022,"Aggregate row, not an entity."
+S09,S09a,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2020-2022,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S09,S09a,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2020-2022,"Aggregate row, not an entity."
+S09,S09a,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2020-2022,
+S09,S09a,Telangana,,Telangana,Telangana,state,2020-2022,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S09,S09a,Tripura,,Tripura,Tripura,state,2020-2022,
+S09,S09a,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2020-2022,
+S09,S09a,Uttarakhand,,Uttarakhand,Uttarakhand,state,2020-2022,
+S09,S09a,West Bengal,,West Bengal,West Bengal,state,2020-2022,
+S09,S09b,A&N Islands,,A&N Islands,Andaman and Nicobar Islands,union_territory,2020-2022,
+S09,S09b,Andhra Pradesh,,Andhra Pradesh,Andhra Pradesh,state,2020-2022,Bifurcated 02.06.2014 (Telangana). 2023 value equals 2022 value in all three 2023 sources - verify.
+S09,S09b,Arunachal Pradesh,,Arunachal Pradesh,Arunachal Pradesh,state,2020-2022,
+S09,S09b,Assam,,Assam,Assam,state,2020-2022,
+S09,S09b,Bihar,,Bihar,Bihar,state,2020-2022,
+S09,S09b,Chandigarh,,Chandigarh,Chandigarh,union_territory,2020-2022,
+S09,S09b,Chhattisgarh,,Chhattisgarh,Chhattisgarh,state,2020-2022,
+S09,S09b,D&N Haveli and Daman & Diu,,D&N Haveli and Daman & Diu,Dadra and Nagar Haveli and Daman and Diu,union_territory,2020-2022,UT formed by merger 26.01.2020. Pre-2020 values in post-2020 sources are retroactive sums of the two erstwhile UTs.
+S09,S09b,Delhi,,Delhi,Delhi,union_territory,2020-2022,National Capital Territory of Delhi; counted in UT block by NCRB.
+S09,S09b,Goa,,Goa,Goa,state,2020-2022,
+S09,S09b,Gujarat,,Gujarat,Gujarat,state,2020-2022,
+S09,S09b,Haryana,,Haryana,Haryana,state,2020-2022,
+S09,S09b,Himachal Pradesh,,Himachal Pradesh,Himachal Pradesh,state,2020-2022,
+S09,S09b,Jammu & Kashmir,,Jammu & Kashmir,Jammu and Kashmir,union_territory,2020-2022,State until 30.10.2019; UT from 31.10.2019. Figures for 2018-2019 (and earlier) cover the erstwhile State incl. Ladakh. Do not compare 2019->2020 change without adding Ladakh.
+S09,S09b,Jharkhand,,Jharkhand,Jharkhand,state,2020-2022,
+S09,S09b,Karnataka,,Karnataka,Karnataka,state,2020-2022,
+S09,S09b,Kerala,,Kerala,Kerala,state,2020-2022,
+S09,S09b,Ladakh,,Ladakh,Ladakh,union_territory,2020-2022,UT from 31.10.2019; '-' or blank for years before 2020 in sources.
+S09,S09b,Lakshadweep,,Lakshadweep,Lakshadweep,union_territory,2020-2022,
+S09,S09b,Madhya Pradesh,,Madhya Pradesh,Madhya Pradesh,state,2020-2022,
+S09,S09b,Maharashtra,,Maharashtra,Maharashtra,state,2020-2022,
+S09,S09b,Manipur,,Manipur,Manipur,state,2020-2022,
+S09,S09b,Meghalaya,,Meghalaya,Meghalaya,state,2020-2022,
+S09,S09b,Mizoram,,Mizoram,Mizoram,state,2020-2022,
+S09,S09b,Nagaland,,Nagaland,Nagaland,state,2020-2022,S06 marks '#': clarifications pending for 2022.
+S09,S09b,Odisha,,Odisha,Odisha,state,2020-2022,
+S09,S09b,Puducherry,,Puducherry,Puducherry,union_territory,2020-2022,
+S09,S09b,Punjab,,Punjab,Punjab,state,2020-2022,
+S09,S09b,Rajasthan,,Rajasthan,Rajasthan,state,2020-2022,
+S09,S09b,Sikkim,,Sikkim,Sikkim,state,2020-2022,
+S09,S09b,TOTAL (ALL INDIA),,TOTAL (ALL INDIA),TOTAL (ALL INDIA),aggregate,2020-2022,"Aggregate row, not an entity."
+S09,S09b,TOTAL STATE(S),,TOTAL STATE(S),TOTAL STATE(S),aggregate,2020-2022,"Aggregate row, not an entity. Composition differs by source (J&K included as state in S08, in UT block in S01)."
+S09,S09b,TOTAL UT(S),,TOTAL UT(S),TOTAL UT(S),aggregate,2020-2022,"Aggregate row, not an entity."
+S09,S09b,Tamil Nadu,,Tamil Nadu,Tamil Nadu,state,2020-2022,
+S09,S09b,Telangana,,Telangana,Telangana,state,2020-2022,State formed 02.06.2014; 2014 split with Andhra Pradesh to be checked in Crime in India 2014.
+S09,S09b,Tripura,,Tripura,Tripura,state,2020-2022,
+S09,S09b,Uttar Pradesh,,Uttar Pradesh,Uttar Pradesh,state,2020-2022,
+S09,S09b,Uttarakhand,,Uttarakhand,Uttarakhand,state,2020-2022,
+S09,S09b,West Bengal,,West Bengal,West Bengal,state,2020-2022,
