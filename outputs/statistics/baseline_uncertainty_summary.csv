@@ -1,0 +1,2 @@
+model,validation_years,validation_rows,interval_level,lower_residual_quantile,upper_residual_quantile,historical_coverage,interpretation
+Previous-year baseline,2021-2023,108,80%,-125.59999999999998,1090.5999999999992,0.7962962962962963,Empirical pooled residual interval. It describes past baseline error variation and is not a formal confidence interval.
