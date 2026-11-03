@@ -1,0 +1,4 @@
+test_id,test_name,research_question,sample_size,statistic,effect_estimate,effect_measure,raw_p_value,holm_adjusted_p_value,significant_at_0_05
+H1,Wilcoxon signed-rank test,Did comparable State/UT reported cybercrime rates increase from 2019 to 2023?,34,515.0,0.8995282710786747,"Median rate change per 100,000 population",4.063645610585809e-05,8.127291221171618e-05,True
+H2,Wilcoxon signed-rank test,Did comparable State/UT reported cybercrime case counts increase from 2019 to 2023?,34,445.5,77.0,Median reported-case change,0.00034411125616677337,0.00034411125616677337,True
+H3,Spearman rank correlation,"Across State/UTs in 2023, was population associated with reported cybercrime cases?",36,0.8502477654519924,0.8502477654519924,Spearman correlation coefficient,5.2869244366196e-11,1.58607733098588e-10,True
